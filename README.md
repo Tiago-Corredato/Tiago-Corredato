@@ -10,7 +10,7 @@ Olá! Sou Tiago Potame Corredato, tenho 41 anos, natural de São Paulo, e estou 
   <a href="https://www.instagram.com/tiago_corredato" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://br.linkedin.com/in/tiago-potame-corredato" target="_blank" rel="noopener noreferrer">
+  <a href="https://br.linkedin.com/in/tiago-potame-corredato-68654898" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
